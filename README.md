@@ -3,14 +3,17 @@
 
 ###示例图片
 
+<br/>
 ######6的frame
 [![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
 [head]:https://github.com/zfx5130/SimpleAutoLayoutDemo/blob/master/iphone6.jpeg "点击图片进入我的博客"
 
+<br/>
 ######5的frame
 [![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
 [head]:https://github.com/zfx5130/SimpleAutoLayoutDemo/blob/master/ipone5.jpeg "点击图片进入我的博客"
 
+<br/>
 #####屏幕截图
 [![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
 [head]:https://github.com/zfx5130/SimpleAutoLayoutDemo/blob/master/shotImage.jpeg "点击图片进入我的博客"
