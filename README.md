@@ -6,3 +6,13 @@
 [![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
 [head]:https://github.com/zfx5130/SimpleAutoLayoutDemo/blob/master/iphone6.jpeg "点击图片进入我的博客"
 
+
+[![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
+[head]:https://github.com/zfx5130/SimpleAutoLayoutDemo/blob/master/ipone5.jpeg "点击图片进入我的博客"
+
+
+[![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
+[head]:https://github.com/zfx5130/SimpleAutoLayoutDemo/blob/master/screem.png "点击图片进入我的博客"
+
+
+
